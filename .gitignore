@@ -51,6 +51,7 @@ Module.symvers
 Mkfile.old
 dkms.conf
 
+p1_max_min
 
 
 
